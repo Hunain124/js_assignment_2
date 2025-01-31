@@ -13,4 +13,4 @@ let nameLenght = '';
 for(let i=0; i <= userName.length; i++){
     nameLenght = [i]
 }
-console.log(`${userName.toUpperCase()} and Letter have ${nameLenght}`);
+console.log(`${userName.toUpperCase()} has ${nameLenght} Letters`);
